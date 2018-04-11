@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f7xx_hal.h": "c",
+        "stm32f7xx_hal_conf.h": "c",
+        "stm32f7xx_hal_usart.h": "c",
+        "stm32f7xx_hal_def.h": "c",
+        "stm32f769i_eval.h": "c",
+        "stm32f7xx_hal_uart.h": "c",
+        "uart.h": "c",
+        "stdio.h": "c"
+    }
+}
